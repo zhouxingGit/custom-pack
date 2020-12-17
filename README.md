@@ -1,6 +1,8 @@
 # custom-pack
 ## 手写一个简单的webpack
 
+执行 node/lib 回车
+
 ### 主要实现功能
   
 * 1.将ES6文件打包成ES5文件  
